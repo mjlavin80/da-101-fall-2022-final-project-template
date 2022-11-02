@@ -6,7 +6,7 @@
 
 ## Overall Assignment Description
 
-The purpose of the final project is to combine the core skills you have gained in the class in an application of the data cycle producing a short polished report on a question of your choosing, ideally something that you're passionate about or is relevant to your life or interests (some suggestions are offered toward the end). The final project is divided into four components, each due during a different quarter of the semester. Each assignment is worth 25% of the assignment grade, and the final project as a whole is worth 30% of your grade for the course.
+The purpose of the final project is to combine the core skills you have gained in the class in an application of the data cycle producing a short polished report on a question of your choosing, ideally something that you're passionate about or is relevant to your life or interests (some suggestions are offered toward the end).
 
 This final project will incorporate all of the steps involved in the data cycle depicted to the right. You will be in charge of stating an interesting question that doesn’t duplicate previous projects/labs, conducting exploratory analyses using skills from the entire semester, building a model that you will interpret, then communicating your key findings in a polished, professional narrative. 
 
