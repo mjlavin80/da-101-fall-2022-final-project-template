@@ -1,0 +1,77 @@
+---
+title: "DA 101 FInal Project Template"
+author: "Your Name Here"
+date: "5/12/2021"
+output: 
+  html_document:
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+Provide a two paragraph introduction, professionally written, that gives an overview of the essentials someone needs to know to make sense of the data you show. You must cite and link to your data set somewhere in the introduction (a footnote is OK). Revising and building on your introduction from the previous assignments is allowed and encouraged, but using the exact same introduction is discouraged.
+
+## Ethical Considerations
+
+Provide one paragraph discussing the stakeholders in your data analysis and your ethical concerns or responsibilities using the data and in your analysis. Everyone has ethical considerations, no matter what the data set or subject matter.
+
+## Data Explanation and Exploration 
+
+Provide some details describing the data you are working with. What are the observations? The key variables you will be looking at? Are there any particular challenges in the data you will need to work through or be aware of during analysis? 
+
+Provide two polished visuals that describes the data in a way relevant to your question (descriptive, not related to your statistical model specifically--not a scatter plot). Write text that describes the data and what the visuals tell you about your data or decisions you will need to make for the analysis.
+
+```{r visual1}
+
+```
+
+```{r visual2}
+
+```
+
+## Statistical Analysis and Interpretation
+
+Provide at least two distinct statistical models (for example; multivariate regression and/or t-test) that you interpret correctly and fully in the text. Report your results in a polished table (kable).
+
+Provide at least three polished visuals that specifically support and validate the model(s) you have developed (e.g., residual and regression line/scatter, histogram showing normality of data or residuals, etc.), or help to communicate your main result. Visuals should have captions and be referred to clearly in your text, and they should not all be the same (e.g., not three scatter plots). Text should fully explain what you show and your findings, to someone who is unfamiliar with your data, code, and models, in terms of the data and in plain language.
+
+```{r modeltest1}
+
+```
+
+```{r modeltest2}
+
+```
+
+```{r visual3}
+
+```
+
+```{r visual4}
+
+```
+
+```{r visual5}
+
+```
+
+## Conclusions
+
+Provide one or two paragraphs concluding about the data: what does it tell us, what are the limitations to this data/model, and what is one future direction you could envision for future data analysts or data collectors?
+
+Find at least one reference that is relevant to or supports your insights, and cite it in this section. You may cite a reference by linking directly to it in your Rmd and/or citing it using your style of choice. Either way, the full citation should also appear in a "Works Cited" page below the conclusions section. 
+
+## Reflection 
+
+This should be a brief (3-4 paragraphs) look back on the work you have done for this assignment. 
+
+- What "rules" did you follow for working with and interpreting the data and statistics?
+- What do you think was your most effective data visualization? 
+
+## Works Cited 
+
+
