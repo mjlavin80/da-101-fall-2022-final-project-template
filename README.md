@@ -1,6 +1,6 @@
 # DA 101 Final Project Assignment
 
-## Spring 2021
+## Fall 2022
 
 ## Assignment Description
 
@@ -18,7 +18,7 @@ Consistent work and progress on your final projects, once the topic is chosen, w
 
 __Note:__ Do not include raw computer output in your writing: Readability is a major component of reports, so use headings, tables, figure captions, etc. to make it easy to follow.
 
-## Part IV: Written Analysis and Reflection
+## Part II: Written Analysis and Reflection
 
 ### Written Analysis 
 
@@ -49,7 +49,7 @@ __Conclusions__:
 
 Provide one or two paragraphs concluding about the data: what does it tell us, what are the limitations to this data/model, and what is one future direction you could envision for future data analysts or data collectors?
 
-Find at least one reference that is relevant to or supports your insights, and cite it in this section. You may cite a reference by linking directly to it in your Rmd and/or citing it using your style of choice. Either way, the full citation should also appear in a "Works Cited" page below the conclusions section. 
+Find at least one reference that is relevant to or supports your insights, and cite it in this section. You may cite a reference by linking directly to it in your RMD and/or citing it using your style of choice. Either way, the full citation should also appear in a "Works Cited" page below the conclusions section. 
 
 ### Project Reflections
 
@@ -58,14 +58,13 @@ This should be a brief (3-4 paragraphs) look back on the work you have done for 
 - What "rules" did you follow for working with and interpreting the data and statistics?
 - What do you think was your most effective data visualization? 
 
+You may include your reflection as a separate markdown file in your repository, or as a section in your project RMD.
+
 ### What to Turn in, and How to Submit
 
 
-To submit this assignment, you will check out the DA 101 Spring 2021 Final Project Template from Github Classroom by visiting the following link: https://classroom.github.com/a/fTg7DvWm
-
-Don't forget to make your own branch and set it as the default branch!
+To submit this assignment, you will check out the DA 101 Spring 2021 Final Project Template from Github Classroom. Don't forget to make a 'student' branch and set it as the default.
 
 The repository includes a blank RMD file, and several sub-folders that you can use to store data, documentation, etc. Your completed submission should include your completed RMD file, your knitted HTML, all data files used in the project, and any other supplementary files you think would be useful (such as documentation, metadata files for your data sets, etc.). 
 
-Don't forget to make a pull request when you are done!
-
+To run in the assignment, make a pull request, just as we have done for all lab assignments. 
