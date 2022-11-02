@@ -1,7 +1,7 @@
 ---
-title: "DA 101 FInal Project Template"
+title: "DA 101 Final Project Template"
 author: "Your Name Here"
-date: "5/12/2021"
+date: "Submission Date"
 output: 
   html_document:
     code_folding: hide
