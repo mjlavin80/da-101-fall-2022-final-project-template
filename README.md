@@ -36,7 +36,7 @@ __Data Explanation and Exploration__:
 
 Provide some details describing the data you are working with. What are the observations? The key variables you will be looking at? Are there any particular challenges in the data you will need to work through or be aware of during analysis? 
 
-Provide two polished visuals that describes the data in a way relevant to your question (descriptive, not related to your statistical model specifically--not a scatter plot). Write text that describes the data and what the visuals tell you about your data or decisions you will need to make for the analysis.
+Provide two polished visuals that describe the data in a way relevant to your question (descriptive, not related to your statistical model specifically--not a scatter plot). Write text that describes the data and what the visuals tell you about your data or decisions you will need to make for the analysis.
 
 __Statistical Analysis and Interpretation__: 
 
