@@ -63,7 +63,7 @@ You may include your reflection as a separate markdown file in your repository, 
 ### What to Turn in, and How to Submit
 
 
-To submit this assignment, you will check out the DA 101 Spring 2021 Final Project Template from Github Classroom. Don't forget to make a 'student' branch and set it as the default.
+To submit this assignment, you will check out the DA 101 Finall 2022 Final Project Template from Github Classroom. Don't forget to make a 'student' branch and set it as the default.
 
 The repository includes a blank RMD file, and several sub-folders that you can use to store data, documentation, etc. Your completed submission should include your completed RMD file, your knitted HTML, all data files used in the project, and any other supplementary files you think would be useful (such as documentation, metadata files for your data sets, etc.). 
 
